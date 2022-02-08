@@ -1,13 +1,13 @@
 # [pyunramura/linuxserver-mods_transmission-dark](https://github.com/pyunramura/linuxserver-mods_transmission-dark)
 **A linuxserver.io container-mod that applies a dark theme to the transmission combustion-ui**
 
-[![Release Ship](https://github.com/pyunramura/linuxserver-mods_transmission-dark/actions/workflows/semver-build-push-release.yaml/badge.svg)](https://github.com/pyunramura/linuxserver-mods_transmission-dark/actions/workflows/semver-build-push-release.yaml) [![Validate Dockerfile](https://github.com/pyunramura/linuxserver-mods_transmission-dark/actions/workflows/validate-dockerfile.yaml/badge.svg)](https://github.com/pyunramura/linuxserver-mods_transmission-dark/actions/workflows/validate-dockerfile.yaml)
+[![Release Ship](https://github.com/pyunramura/linuxserver-mods_wireguard-pia/actions/workflows/semver-build-push-release.yaml/badge.svg)](https://github.com/pyunramura/linuxserver-mods_wireguard-pia/actions/workflows/semver-build-push-release.yaml) [![Validate Dockerfile](https://github.com/pyunramura/linuxserver-mods_wireguard-pia/actions/workflows/validate-dockerfile.yaml/badge.svg)](https://github.com/pyunramura/linuxserver-mods_wireguard-pia/actions/workflows/validate-dockerfile.yaml)
 
 This project's home is located at https://github.com/pyunramura/linuxserver-mods_transmission-dark
 
 Find this image on the Github container registry at [ghcr.io/pyunramura/transmission-dark](https://github.com/pyunramura/linuxserver-mods_transmission-dark/pkgs/container/transmission-dark)
 
-or in the Dockerhub registry at [pyunramura/transmission-dark](https://hub.docker.com/r/pyunramura/transmission-dark).
+or in the Dockerhub registry at [pyunramura/combustion-dark](https://hub.docker.com/r/pyunramura/transmission-dark).
 
 ---
 
@@ -31,12 +31,12 @@ This mod contains a single css style created by user **SebDanielsson** at [**Seb
 
 ## Screenshots
 
-![assets/assets-1.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-1.jpg)
+![](assets/assets-1.jpg)
 
-![assets/assets-2.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-2.jpg)
+![](assets/assets-2.jpg)
 
-![assets/assets-3.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-3.jpg)
+![](assets/assets-3.jpg)
 
-![assets/assets-4.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-4.jpg)
+![](assets/assets-4.jpg)
 
-![assets/assets-5.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-5.jpg)
+![](assets/assets-5.jpg)
