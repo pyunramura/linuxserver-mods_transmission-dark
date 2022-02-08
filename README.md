@@ -31,12 +31,12 @@ This mod contains a single css style created by user **SebDanielsson** at [**Seb
 
 ## Screenshots
 
-![](assets/assets-1.jpg)
+![assets/assets-1.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-1.jpg)
 
-![](assets/assets-2.jpg)
+![assets/assets-2.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-2.jpg)
 
-![](assets/assets-3.jpg)
+![assets/assets-3.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-3.jpg)
 
-![](assets/assets-4.jpg)
+![assets/assets-4.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-4.jpg)
 
-![](assets/assets-5.jpg)
+![assets/assets-5.jpg](https://github.com/pyunramura/linuxserver-mods_transmission-dark/blob/cd126a1b837657507c95775908e4e65c32dde75d/assets/assets-5.jpg)
